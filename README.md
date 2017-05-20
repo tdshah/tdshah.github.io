@@ -1,2 +1,2 @@
 # Personal website
-tdshah.github.io
+https://tdshah.github.io
